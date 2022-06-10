@@ -29,6 +29,7 @@ AdminUser=[user name]
 Password=[strong password]
 . . .
 DNSNameLabel=[DNS prefix]
+StorageAccountName=[name] - must be unique per region
 . . .
 ```
 
